@@ -1,3 +1,6 @@
+body {
+    
+}
 .foader {
     background-color: #262626;
     float: inline-end;
@@ -82,15 +85,12 @@
 .quality-page {
     background-color: #121619;
 }
-
 .quality-title {
     /* font-family: 'PT Sans Narrow' , sans-serif; */
     /* font-size: 16px; */
     /* font-weight: 400; */
     /* color: #999;  */
 }
-
-
 .pizza-gralic-image img {
       margin-top: 150px;  
     width: 80px;   
@@ -484,9 +484,6 @@ color: #fff;
     width: 150px;
     margin-left: 50px;
     padding-top: 0px;
-    
-   
-    
 }
 .costomer-image p {
     background: #fefefe;
@@ -494,9 +491,7 @@ color: #fff;
     width: 700px;
     height: 150px;
     border: 1px;
-    margin: 10px;
-
-    
+    margin: 10px;    
 }
 .customer-reviews h4 {
     font-size: 30px;
@@ -510,11 +505,8 @@ color: #fff;
     letter-spacing: 2px;
 }
 .costomer-image {
-    /* background: black; */
     padding-left: 200px;
     padding-bottom: 150px;
-   
-
 }
 .customer-reviews {
        background: #121619;
@@ -542,7 +534,6 @@ color: #fff;
     padding: 17px 41px;
     border-radius: 50px;
     display: inline-block;
-    
     text-decoration: none;
 }
 .about-pizzaon a:hover {
@@ -559,12 +550,10 @@ color: #fff;
 .end-page a {
     text-decoration: none;
     color: #fefefe;
-    
 }
 .end-page {
     background-color: #121619;
 }
-
 .quality-image img {
     right: 40px;
 }
@@ -586,6 +575,22 @@ color: #fff;
 }
 .quality-page {
     background-color: #121619;
+}
+.opening-hours button {
+       float: right;
+       background: #fd9d3e;
+       margin-top: 10px;
+}
+.opening-hours span {
+    float: right;
+}
+.designed-by a:hover {
+    color: #fd9d3e;
+    text-decoration: underline;
+}
+.designed-by  {
+    font-size: 5px;
+    margin-top: 50px;
 }
 
 

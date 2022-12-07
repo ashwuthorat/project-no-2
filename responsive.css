@@ -3,7 +3,14 @@ body {
 }
 @media (min-width: 300px) and (max-width: 400px) { 
 .navbar-wrap button {
-    
+          
+}
+.navbar-wrap {
+    display: none;
+}
+.quality-image img {
+    width: 100px;
+    height: 100px;
 }
 
 
